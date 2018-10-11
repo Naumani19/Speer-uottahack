@@ -1,0 +1,7 @@
+platform :ios, '9.0'
+target :'uOttawa' do
+    use_frameworks!
+  	pod 'Clarifai'
+
+    # other pods
+end
